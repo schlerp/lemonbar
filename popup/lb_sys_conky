@@ -1,0 +1,18 @@
+background no
+update_interval 3
+total_run_times 0
+override_utf8_locale yes
+short_units yes
+uppercase no
+out_to_console yes
+out_to_x no
+if_up_strictness address
+format_human_readable true
+
+TEXT
+SYS \
+${cpu} \
+${cpu cpu1} ${freq_g 1} ${cpu cpu2} ${freq_g 2} ${cpu cpu3} ${freq_g 3} ${cpu cpu4} ${freq_g 4} \
+${cpu cpu5} ${freq_g 5} ${cpu cpu6} ${freq_g 6} ${cpu cpu7} ${freq_g 7} ${cpu cpu8} ${freq_g 8} \
+
+

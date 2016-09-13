@@ -1,0 +1,15 @@
+background no
+update_interval 10
+total_run_times 0
+override_utf8_locale yes
+short_units yes
+uppercase no
+out_to_console yes
+out_to_x no
+if_up_strictness address
+format_human_readable true
+
+TEXT
+SYS \
+${fs_used_perc /} \
+${fs_used_perc /home} \

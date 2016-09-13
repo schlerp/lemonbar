@@ -1,0 +1,19 @@
+background no
+update_interval 3
+total_run_times 0
+override_utf8_locale yes
+short_units yes
+uppercase no
+out_to_console yes
+out_to_x no
+if_up_strictness address
+format_human_readable true
+
+TEXT
+SYS \
+${top pid 1} ${top name 1} ${top cpu 1} \
+${top pid 2} ${top name 2} ${top cpu 2} \
+${top pid 3} ${top name 3} ${top cpu 3} \
+${top_mem pid 1} ${top_mem name 1} ${top_mem mem_res 1} \
+${top_mem pid 2} ${top_mem name 2} ${top_mem mem_res 2} \
+${top_mem pid 3} ${top_mem name 3} ${top_mem mem_res 3} \
