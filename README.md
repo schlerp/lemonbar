@@ -1,5 +1,8 @@
-![At the end of our lives, it's good to be the only thing left](http://i.imgur.com/ZSo85b2.png)
+![Chicken Sandwich](http://i.imgur.com/WfuZuci.png)
 
+
+
+# Copper Badgers original README.md
 ## Installation + Usage
 
 Dependencies are:
@@ -28,3 +31,4 @@ changes to get my system and theme, but you should check out his original repo
 if you're interested in using for your own system. It is located here:
 
 https://github.com/electro7/dotfiles/tree/master/.i3/lemonbar
+
